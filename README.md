@@ -2,15 +2,32 @@
 
 A new Flutter project.
 
+# Video Call Demo with Flutter and Agora
+
+## Overview
+
+This project is a Flutter demo application showcasing real-time video calling functionality using the Agora SDK. It demonstrates how to integrate Agora's `agora_rtc_engine` package into a Flutter app to enable high-quality video and audio communication.
+
+## Features
+
+- Real-time video and audio calling
+- High-quality video streaming
+- Basic user interface for video calls
+- Agora SDK integration
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter 2.0 or higher
+- Android Studio or Visual Studio Code
+- An Agora Developer Account
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Setup
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/yourusername/video_call_demo.git
+   cd video_call_demo
+
